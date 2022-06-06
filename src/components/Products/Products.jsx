@@ -1,5 +1,6 @@
-import React from "react";
+import React,{useEffect,useState} from "react";
 import {Product} from "../Products/Product"
+
 
 const Products = () => {
 
